@@ -38,7 +38,7 @@ This project explores sentiment analysis using the Twitter Airline Sentiment dat
 4. View the results and analysis reports in the `results/` directory for insights.
 
 ## Results
+sample_test.jpg
 
->>>>>>> 44ea145029d29b8f2e33f40ecfcf3842ad9589fd
 ## Contributors
 - Shashank Reddy Kallem
