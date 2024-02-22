@@ -39,6 +39,3 @@ This project explores sentiment analysis using the Twitter Airline Sentiment dat
 
 ## Contributors
 - Shashank Reddy Kallem
-
-## License
-This project is licensed under the [MIT License](LICENSE).
