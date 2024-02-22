@@ -4,7 +4,7 @@
 This project explores sentiment analysis using the Twitter Airline Sentiment dataset, which contains tweets about customer opinions on major U.S. airlines. The analysis delves into sentiment patterns and trends, aiming to provide insights into customer sentiments towards different airlines.
 
 ## Dataset Information
-- **Dataset Source:** [Kaggle]([https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment?resource=download](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment?resource=download))
+- **Dataset Source:** [Kaggle](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment?resource=download)
 - **Description:** The dataset comprises tweets from 2015 about the six most popular U.S. airlines: American, Delta, Southwest, United, US Airways, and Virgin America. It includes sentiment labels (positive, negative, neutral), confidence scores, reasons for negative sentiment, user information, tweet content, location, and time zone.
 - **Purpose:** The dataset serves as a valuable resource for sentiment analysis and natural language processing tasks, offering insights into customer perceptions and experiences shared on Twitter.
 
