@@ -37,5 +37,7 @@ This project explores sentiment analysis using the Twitter Airline Sentiment dat
 3. Refer to the scripts in the `scripts/` directory for data preprocessing, sentiment analysis, and model building.
 4. View the results and analysis reports in the `results/` directory for insights.
 
+## Results
+![Sample-result](sample_test.jpg)
 ## Contributors
 - Shashank Reddy Kallem
