@@ -23,6 +23,7 @@ This project explores sentiment analysis using the Twitter Airline Sentiment dat
 - Seaborn
 - Scikit-learn
 - Natural Language Toolkit (NLTK)
+- Twitter
 
 ## Project Structure
 - `data/`: Contains the dataset file (`Tweets.csv`).
